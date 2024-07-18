@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mie-Jonasson
 - 👀 I’m interested in everything math, science and programming!
-- 🌱 I’m currently learning to become a Data Scientist.
-- 💞️ I’m looking to get better at using git.
+- 🌱 I Finishes my Bachelor of Science in Data Scientist in June 2024.
+- 💞️ I’m looking to get better at data infrastructure and engineering.
 
 <!---
 Mie-Jonasson/Mie-Jonasson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
